@@ -101,7 +101,7 @@ python advanced_ai_presentation.py
 
 ```
 .
-├── advanced_ai_presentation.py   # Main program file | فایل اصلی برنامه
+├── Text-to-Video.py   # Main program file | فایل اصلی برنامه
 ├── requirements.txt             # Project dependencies | پیش‌نیازهای پروژه
 └── README.md                    # Documentation | مستندات
 ```
